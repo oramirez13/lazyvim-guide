@@ -1,4 +1,4 @@
-# Neovim and LazyVim Guide
+# Neovim & LazyVim Guide
 
 ## What is Neovim?
 
